@@ -19,3 +19,5 @@ Visualização dos dados do consumidor: Tudo que o usuário coloca de dados cada
 # Funções Seguras 
 
 IA desenvolvida para várias atuações: Pode se usar para agencias bancarias, sistema de lojas online, empresas que guardam muitos dados.
+
+Bloqueio do sistema após 3 tentativas: Se a pessoa errar duas vezes terá mais uma chance, se não o acesso será bloqueado.
