@@ -11,3 +11,5 @@ sistemas de evolução: A partir do começo vai avançando conforme o conhecimen
 suporte dos criadores: Ícone que ajuda e tenta passar os problemas que o usuário tem durante o uso do apliativo.
 
 Feedbacks: usuários do aplicativo colocam uma avaliação se realmente resolveu aquilo que ele precisava, caso contrário dizer quais mudanças podem ser feitas para melhorar.
+
+Histórico geral do sistema: Guarda tudo que os programadores e usuários fizeram dentro do aplicativo. 
