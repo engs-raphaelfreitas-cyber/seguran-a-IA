@@ -41,3 +41,5 @@ Comando de diferentes testes contra robos invasores: criação de desafios difer
 usuário define localizações,ao ser acessado diferente dessa localização emite um alerta de segurança: Podemos incluir num sistema bancário para evitar clonagem de cartões o sistema le a sua localizacao se uma compra for autorizada fora da sua atual localizacao chega um aviso para evitar várias compras desordenadas do invasor.
 
 atualizações recentes: Sistema passa por melhorias, inovações e correções ao longo do tempo.
+
+Testes de invasões ao próprio sistema: Garantir a segurança a cada atualização e inovação que for sendo inserida. 
