@@ -13,3 +13,5 @@ suporte dos criadores: Ícone que ajuda e tenta passar os problemas que o usuár
 Feedbacks: usuários do aplicativo colocam uma avaliação se realmente resolveu aquilo que ele precisava, caso contrário dizer quais mudanças podem ser feitas para melhorar.
 
 Histórico geral do sistema: Guarda tudo que os programadores e usuários fizeram dentro do aplicativo. 
+
+Visualização dos dados do consumidor: Tudo que o usuário coloca de dados cadastrais, pode também editar eles quando preferir e usar para conferencia.
