@@ -27,3 +27,5 @@ Implementar senhas fortes: Só será aceito Senhas fortes e transformar senha em
 Verificação em 2 etapas: código enviado ao email ou número de telefone para passar na verificação e conseguir o acesso.
 
 Criptografar os dados do cliente: dados do cliente seguros através de simbologias para confundir o invasor. 
+
+Monitoramento ativo de ações suspeitas: Fica ativo para cuidar de cada ação e caso seja algo suspeito emite alertas. 
