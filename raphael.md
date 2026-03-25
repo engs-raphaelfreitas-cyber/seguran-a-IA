@@ -23,3 +23,5 @@ IA desenvolvida para várias atuações: Pode se usar para agencias bancarias, s
 Bloqueio do sistema após 3 tentativas: Se a pessoa errar duas vezes terá mais uma chance, se não o acesso será bloqueado.
 
 Implementar senhas fortes: Só será aceito Senhas fortes e transformar senha em um código único que não poderá voltar a senha original. 
+
+Verificação em 2 etapas: código enviado ao email ou número de telefone para passar na verificação e conseguir o acesso.
