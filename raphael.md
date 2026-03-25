@@ -2,3 +2,6 @@
 
 Interface de Login: Parte inicial de todo o sistema para que o usuário consiga configurar sua conta e usar o site.
 
+treinamento da IA: Toda parte de visualizar e definir o que a IA precisa para desenvolver junto ao programador o seu site seguro.
+
+
