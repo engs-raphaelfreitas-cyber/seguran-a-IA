@@ -43,3 +43,5 @@ usuário define localizações,ao ser acessado diferente dessa localização emi
 atualizações recentes: Sistema passa por melhorias, inovações e correções ao longo do tempo.
 
 Testes de invasões ao próprio sistema: Garantir a segurança a cada atualização e inovação que for sendo inserida. 
+
+Armazenamento de dados: Guarda todos os dados antigos desde e ínicio numa pasta ou nuvem. 
