@@ -35,3 +35,5 @@ Login com identificação facial e digital: Ao entrar no aplicativo o usuário c
 Uso de documento com foto para identificação: cliente preferir cadastrar seu RG também é possível.
 
 Função de bloqueio de imterromper tudo ao ser hackeado: funciona com um botão de emergencia contra invasões.
+
+Comando de diferentes testes contra robos invasores: criação de desafios diferentes a cada tentativa login feito.
