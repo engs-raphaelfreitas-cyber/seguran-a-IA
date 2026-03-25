@@ -6,3 +6,4 @@ treinamento da IA: Toda parte de visualizar e definir o que a IA precisa para de
 
 Diferentes idiomas: Faz parte de uns dos treinamentos para que se adapte a qual seja o idioma escolhido.
 
+sistemas de evolução: A partir do começo vai avançando conforme o conhecimento do usuário com níveis de dificuldade.
