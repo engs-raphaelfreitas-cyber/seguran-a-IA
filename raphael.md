@@ -39,3 +39,5 @@ Função de bloqueio de imterromper tudo ao ser hackeado: funciona com um botão
 Comando de diferentes testes contra robos invasores: criação de desafios diferentes a cada tentativa login feito.
 
 usuário define localizações,ao ser acessado diferente dessa localização emite um alerta de segurança: Podemos incluir num sistema bancário para evitar clonagem de cartões o sistema le a sua localizacao se uma compra for autorizada fora da sua atual localizacao chega um aviso para evitar várias compras desordenadas do invasor.
+
+atualizações recentes: Sistema passa por melhorias, inovações e correções ao longo do tempo.
