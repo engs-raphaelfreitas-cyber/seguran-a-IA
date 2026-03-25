@@ -15,3 +15,7 @@ Feedbacks: usuários do aplicativo colocam uma avaliação se realmente resolveu
 Histórico geral do sistema: Guarda tudo que os programadores e usuários fizeram dentro do aplicativo. 
 
 Visualização dos dados do consumidor: Tudo que o usuário coloca de dados cadastrais, pode também editar eles quando preferir e usar para conferencia.
+
+# Funções Seguras 
+
+IA desenvolvida para várias atuações: Pode se usar para agencias bancarias, sistema de lojas online, empresas que guardam muitos dados.
