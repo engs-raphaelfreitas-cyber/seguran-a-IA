@@ -29,3 +29,5 @@ Verificação em 2 etapas: código enviado ao email ou número de telefone para 
 Criptografar os dados do cliente: dados do cliente seguros através de simbologias para confundir o invasor. 
 
 Monitoramento ativo de ações suspeitas: Fica ativo para cuidar de cada ação e caso seja algo suspeito emite alertas. 
+
+Login com identificação facial e digital: Ao entrar no aplicativo o usuário cadastra sua facial e também a digital para garantir a segurança.
