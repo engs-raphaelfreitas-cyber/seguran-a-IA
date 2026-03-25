@@ -33,3 +33,5 @@ Monitoramento ativo de ações suspeitas: Fica ativo para cuidar de cada ação 
 Login com identificação facial e digital: Ao entrar no aplicativo o usuário cadastra sua facial e também a digital para garantir a segurança.
 
 Uso de documento com foto para identificação: cliente preferir cadastrar seu RG também é possível.
+
+Função de bloqueio de imterromper tudo ao ser hackeado: funciona com um botão de emergencia contra invasões.
