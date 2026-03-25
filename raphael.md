@@ -31,3 +31,5 @@ Criptografar os dados do cliente: dados do cliente seguros através de simbologi
 Monitoramento ativo de ações suspeitas: Fica ativo para cuidar de cada ação e caso seja algo suspeito emite alertas. 
 
 Login com identificação facial e digital: Ao entrar no aplicativo o usuário cadastra sua facial e também a digital para garantir a segurança.
+
+Uso de documento com foto para identificação: cliente preferir cadastrar seu RG também é possível.
