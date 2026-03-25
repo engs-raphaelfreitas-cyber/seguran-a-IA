@@ -37,3 +37,5 @@ Uso de documento com foto para identificação: cliente preferir cadastrar seu R
 Função de bloqueio de imterromper tudo ao ser hackeado: funciona com um botão de emergencia contra invasões.
 
 Comando de diferentes testes contra robos invasores: criação de desafios diferentes a cada tentativa login feito.
+
+usuário define localizações,ao ser acessado diferente dessa localização emite um alerta de segurança: Podemos incluir num sistema bancário para evitar clonagem de cartões o sistema le a sua localizacao se uma compra for autorizada fora da sua atual localizacao chega um aviso para evitar várias compras desordenadas do invasor.
